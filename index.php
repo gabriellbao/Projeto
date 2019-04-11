@@ -21,7 +21,7 @@
     </head>
     <body>
 
-    <div class="ui secondary pointing menu" style="background-color: #f4511e; ">
+    <div class="ui secondary pointing fixed hidden menu" style="background-color: #f4511e; display: flex !important; ">
         <a class="item" href="index.php">
             <p style="font-size: 20px; color: white;">Compraki</p>
         </a>
@@ -72,6 +72,9 @@
             </div>
         </div>
     </div>
+    <br><br>
+
+
 <?php include"rodape.php"; ?>
 
     </body>

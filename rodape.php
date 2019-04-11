@@ -23,18 +23,42 @@
     </style>
 
 </head>
-<body>
-    <div id="rodape"><br>
-        <h2>Fale Conosco:</h2>
-        <div class="five wide column">
-        <i class="world huge icon"></i>
+<body><br>
+<div class="ui vertical footer segment">
+    <div class="ui container">
+        <div class="ui stackable inverted divided equal height stackable grid">
+            <div class="three wide column">
+                <h4 class="ui inverted header">Sobre</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item">Desenvolvedores</a>
+                    <a href="#" class="item">Licenças</a>
+                    <a href="#" class="item">Empresa</a>
+                </div>
+            </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">Contato</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item">Email</a>
+                    <a href="#" class="item">FAQ</a>
+                    <a href="#" class="item">Central de Atendimento</a>
+
+                </div>
+            </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">Mais</h4>
+                <div class="ui inverted link list">
+                <a href="#" class="item">Tabalhe Conosco</a>
+                <a href="#" class="item">Críticas a Empresa</a>
+                </div>
+            </div>
+        </div> <br>
+        <div class="ui icons">
+            <i class="ui facebook icon large"></i>
+            <i class="ui linkedin icon large"></i>
+            <i class="ui instagram icon large"></i>
         </div>
-        <div class="five wide column">
-        <h4><i class="mail icon"></i>bruno@bruno.com</h4>
-        <h4><i class="mail icon"></i>gabbao@gabbao.com</h4>
-        <h4><i class="mail icon"></i>amabiliss@biliss.com</h4>
     </div>
-    </div>
+</div>
 
 </body>
 </html>
