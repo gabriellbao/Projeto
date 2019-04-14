@@ -11,7 +11,7 @@
 <body>
 <br><br>
 <div class="ui middle aligned center aligned grid" style="padding-left: 30%; padding-right: 30%">
-    <div class="column">
+    <div class="column" style="margin-top: 14%;">
         <h2 class="ui orange image header">
             <i class="ui cart icon"></i>
             <div class="content">
@@ -44,7 +44,7 @@
                         <input type="password" name="password" placeholder="Senha">
                     </div>
                 </div>
-                <div class="ui fluid large orange submit button">Login</div>
+                <div class="ui fluid large orange submit button">Cadastrar</div>
             </div>
 
         </form>
