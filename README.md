@@ -1,4 +1,4 @@
-# CSS  Distribution
+# Como baixar o projeto em sua máquina
 
 This repository is automatically synced with the main [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) repository to provide lightweight CSS only version of Semantic UI.
 
