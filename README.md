@@ -14,7 +14,7 @@ Feito isso, só clicar em Clone;
 
 E pronto, o projeto estará dentro do seu computador;
 
-Quando há atualizações nos projetos, no botão superior direito estará escrito **PUSH ORIGIN**,
+Quando há atualizações nos projetos, no botão superior direito estará escrito **PULL ORIGIN**,
 é só clicar e o sistema irá implementar as modicações no projeto no seu computador.
 
 # Como ver a interface do projeto
