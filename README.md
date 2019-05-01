@@ -9,7 +9,7 @@ Entrado no aplicativo, vá em **file** e depois **clone repository**
 Vá em **URL**, depois preencha o primeiro campo com o link do projeto que você
 deseja baixar em seu computador (para ter o link, vá antes no projeto do github da pessoa
 e clique em **clone or download**);
-E depois escolha o local deseja baixar o trabalho;
+E depois escolha o local onde deseja baixar o trabalho;
 Feito isso, só clicar em Clone;
 
 E pronto, o projeto estará dentro do seu computador;
