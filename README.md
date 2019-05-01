@@ -1,7 +1,9 @@
 # Como baixar o projeto em sua máquina
 
-This repository is automatically synced with the main [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) repository to provide lightweight CSS only version of Semantic UI.
+Primeiramente baixe o programa https://desktop.github.com/, com ele você
+poderá baixar os projetos que desejar e verificar todas as atualizações
+dos projetos;
 
-This package **does not support theming** and includes generated CSS files of the default theme only.
+Depois baixado, faça o login com a sua conta do GitHub;
+Entrado no aplicativo, vá em **file** e depois **clone repository** 
 
-You can view more on Semantic UI at [LearnSemantic.com](http://www.learnsemantic.com) and [Semantic-UI.com](http://www.semantic-ui.com)
